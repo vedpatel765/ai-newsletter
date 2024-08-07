@@ -1,4 +1,4 @@
-# ai-newsletter
+# GenAi-Newsletter
 Weekly email newsletter:
 10 articles about generative AI sectioned off based on topics, and with short summaries in the email
   * Made up of professor recommendations and auto generated articles
